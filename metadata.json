@@ -1,6 +1,0 @@
-{
-  "name": "SERPENTIS — Realistic 3D Snake",
-  "description": "Photorealistic 3D wilderness snake survival game powered by Three.js PBR rendering.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
